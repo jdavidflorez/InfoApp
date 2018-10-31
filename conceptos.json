@@ -1,0 +1,23 @@
+//conceptos
+[
+	{
+  "id":1,
+		"palabraClave":"agente",
+		"definicion":"Entidad capaz de pensar racionalmente, con base en las percepciones del entorno",
+		"tags”: agente", "entidad"
+		"contexto”: “CARINA"
+	},
+	{
+		"id":2,
+		"palabraClave":"arquitectura",
+		"definicion":"Simulación del pensamiento humano de manera computacional",
+		"tags”: simulación", "pensamiento"
+		"contexto”: “CARINA"
+	},
+	{,
+		"id":3,
+		"palabraClave":"modelo",
+		"definicion":"conjunto de reglas para codificar una tarea cognitiva",
+		"tags”: modelo", "tarea"
+		"contexto”: “CARINA"
+	}],

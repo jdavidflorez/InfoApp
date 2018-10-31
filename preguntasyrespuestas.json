@@ -1,0 +1,22 @@
+//consultas de preguntas y respuestas
+[	{
+   "id":1, 
+		"infoRespuesta":"Respuesta a la pegunta: ¿Qué es un agente?", 
+		"palabraClave":"agente", 
+		"concepto”: “Entidad capaz de pensar racionalmente, con base en las percepciones del entorno", 
+		"correo": "juan123@correo.es"
+	}, 
+	{
+		"id":2, 
+		"infoRespuesta":"Respuesta a la pegunta: ¿Qué es una arquitectura?", 
+		"palabraClave":"arquitectura", 
+		"concepto”: “Simulación del pensamiento humano de manera computacional", 
+		"correo": "fer123@correo.es"
+	}, 
+	{
+		"id":3, 
+		"infoRespuesta":"Respuesta a la pegunta: ¿Qué es un modelo cognitivo?", 
+		"palabraClave":"modelo", 
+		"concepto”: “conjunto de reglas para codificar una tarea cognitiva", 
+		"correo": "rochi123@correo.es"
+	}

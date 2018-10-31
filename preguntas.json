@@ -1,0 +1,17 @@
+//preguntas
+[
+	{
+		"_id":1,
+		"pregunta":"¿Qué es agente?",
+		"palabraClave":"agente"},
+	{
+		"_id":2,
+		"pregunta":"¿Qué es una arquitectura",
+		"palabraClave":"arquitectura"},
+
+	{
+		"_id":3,
+		"pregunta":"¿Qué es un modelo cognitivo",
+		"palabraClave":"modelo"
+	}
+]

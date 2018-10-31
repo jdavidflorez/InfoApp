@@ -1,0 +1,21 @@
+[
+	{
+		"_id":234,
+		"nombre":"Juan",
+		"apellido":"Pérez",
+		"perfil":"admin"
+	},
+	{
+		"_id":235,
+		"nombre":"Alberto",
+		"apellido":"Pérez",
+		"perfil":"user"
+	},
+	{
+		"_id":236,
+		"nombre":"Ana",
+		"apellido":"López",
+		"perfil":"user"
+	}
+
+]

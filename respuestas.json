@@ -1,0 +1,17 @@
+[
+	{
+  	"_id":100,
+  	"ObjectPregunta":1,
+  	"concepto": "Entidad capaz de pensar racionalmente, con base en las percepciones del entorno"
+    },
+  	{
+  	"_id":200,
+  	"ObjectPregunta":2,
+  	"concepto": "Simulación del pensamiento humano de manera computacional"
+  	},
+  	{
+  	"_id":300,
+  	"ObjectPregunta":3,
+  	"concepto": "conjunto de reglas para codificar una tarea cognitiva"
+	}
+],
